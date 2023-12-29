@@ -70,7 +70,7 @@ $ bash domaingen_test.sh rsicdv2 1
 
 ## Bibtex
 
-Please cite the paper if you use our work . Thanks.
+Please cite if you use our works. Thanks.
 
 ```
 @article{bhattacharya2023c,
