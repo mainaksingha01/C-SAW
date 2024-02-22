@@ -74,10 +74,11 @@ $ bash domaingen_test.sh rsicdv2 1
 Please cite if you use our works. Thanks.
 
 ```
-@article{bhattacharya2023c,
+@inproceedings{bhattacharya2023c,
   title={C-SAW: Self-Supervised Prompt Learning for Image Generalization in Remote Sensing},
   author={Bhattacharya, Avigyan and Singha, Mainak and Jha, Ankit and Banerjee, Biplab},
-  journal={arXiv preprint arXiv:2311.15812},
+  booktitle={Proceedings of the Fourteenth Indian Conference on Computer Vision, Graphics and Image Processing},
+  pages={1--10},
   year={2023}
 }
 
