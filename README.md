@@ -4,6 +4,7 @@ Official repository of C-SAW, a vision-language models (VLM) for unknown class a
 
 ## **ICVGIP 2023 (Best Paper Award)**
 
+[![Conference](https://img.shields.io/badge/Conference-Paper-blue)](https://dl.acm.org/doi/abs/10.1145/3627631.3627669)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2311.15812)
 
 ## Abstract
