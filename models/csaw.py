@@ -383,7 +383,7 @@ class CustomCLIP(nn.Module):
         tokenized_prompts = self.tokenized_prompts
         logit_scale = self.logit_scale.exp()
         jigsaw_image = jigsaw(image)
-        jigsaw_image = image.to(device_cuda) 
+        jigsaw_image = jigsaw_image.to(device_cuda) 
         image_features, data = self.image_encoder(image.type(self.dtype))
         image_features = image_features / image_features.norm(dim=-1, keepdim=True)
         image_prompts, image_ctx_shifted = self.prompt_learner(image_features, data)   
